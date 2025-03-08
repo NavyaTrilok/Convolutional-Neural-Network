@@ -1,4 +1,4 @@
-I have used Artificial Neural Network(ANN) using deep learning techniquest to predict the gender of the person in the image.
+I have used Convolutional Neural Network(CNN) using deep learning techniquest to predict the gender of the person in the image.
 
 I have used OpenCV library for image processing: To normalize the imput date
 
