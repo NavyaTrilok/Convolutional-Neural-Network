@@ -5,7 +5,7 @@ I have used OpenCV library for image processing: To normalize the imput date
 Detected and sliced the face of the person in the image
 Converted the images to grayscale
 Reshaped the images to 48 x 48 input size
-Model is trained on 5 hidden layers with 1,102,902 Trainable parameters
+Model is trained on 3 convolutional layers, 3 pooling layes, 3 hidden layers with 1,503,202 Trainable parameters
 
 This repo consists of 2 .ipynb files -
 
